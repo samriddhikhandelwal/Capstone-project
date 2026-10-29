@@ -1,0 +1,13 @@
+{
+  "total_transactions": 284807,
+  "total_features": 30,
+  "total_legitimate": 284315,
+  "total_fraud": 492,
+  "fraud_percentage": 0.1727485630620034,
+  "train_samples": 227845,
+  "test_samples": 56962,
+  "train_fraud": 394,
+  "test_fraud": 98,
+  "smote_class_0": 227451,
+  "smote_class_1": 227451
+}
